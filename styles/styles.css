@@ -1,0 +1,57 @@
+body {
+  background: no-repeat center fixed
+    url('https://cdn3.pitchfork.com/longform/683/Year_In_Streaming_v2.jpg');
+  font-family: 'DM Mono', monospace;
+}
+
+h1 {
+  text-align: center;
+  background-color: #4abdac;
+  opacity: 0.8;
+  padding: 10px;
+  margin: 0 0 10px 0;
+  border-radius: 5px;
+  border: 0.5px solid;
+}
+
+form {
+  background-color: #fc4a1a;
+  opacity: 0.9;
+  padding: 10px;
+  margin-bottm: 0 0 10px 0;
+  border-radius: 5px;
+  border: 0.5px solid;
+}
+
+.lyrics {
+  background-color: #f7b733;
+  opacity: 0.8;
+  padding: 10px;
+  border-radius: 5px;
+  border: 0.5px solid;
+}
+
+.form-row {
+  margin-bottom: 5px;
+}
+
+.reset {
+  color: white;
+  background-color: rgb(244, 67, 54);
+  border: rgb(244, 67, 54);
+  border-radius: 4px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  padding: 5px;
+  margin-right: 5px;
+  border: 0.5px solid;
+}
+
+.submit {
+  background-color: #62b0b9;
+  border: #62b0b9;
+  color: #fafaf9;
+  border-radius: 4px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  padding: 5px;
+  margin-right: 5px;
+}
